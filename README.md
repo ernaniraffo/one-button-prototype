@@ -1,2 +1,2 @@
-# onebuttonPrototype
-Prototype for CMPM 170 Capstone series at UCSC.
+# one-button-prototype
+A game prototype using only one button input for CMPM 170 at UCSC.
